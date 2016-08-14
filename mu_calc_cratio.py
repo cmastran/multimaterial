@@ -48,7 +48,7 @@ number_of_ribs = 16
 
 plate_radius = 15.0  # mm
 plate_thickness = 1.0  # mm
-rib_width = 0.9  # mm
+rib_width = 0.6  # mm
 
 rib_thickness = 0.2 # mm
 
